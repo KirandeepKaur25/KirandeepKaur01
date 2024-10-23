@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning GIS , remote Sensing.
 - 💞️ I’m looking to collaborate on combining AI's analytical power with Geomatics' spatial and environmental data leads
 -  to more accurate predictions, better monitoring systems, and improved decision-making for managing natural resources and addressing environmental challenges.
-- 📫 How to reach me through my gmail address.
+- 📫 How to reach me through kaurkirandeep8808@gmail.com.
  
 
 <!---
